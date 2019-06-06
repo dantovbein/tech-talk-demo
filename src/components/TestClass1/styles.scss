@@ -1,0 +1,15 @@
+/* Auto-generated file created by Dan Tovbein 04/06/2019 at 19:03:45hs */
+
+@import "../../sass/variables.scss";
+@import "../../sass/mixins.scss";
+
+.test-class1 {
+}
+
+:local(.test-class1) {
+  display: initial;
+}
+
+/* Don't forget to remove this class */
+:local(.default-component-content) {
+}   
