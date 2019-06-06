@@ -19,3 +19,5 @@ yarn-error.log*
 /cli
 .app-cli.config
 .sass-variables.config
+src/sass/_variables.js
+src/sass/_variables.scss
